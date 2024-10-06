@@ -4,7 +4,7 @@ lua54 'yes'
 
 
 author 'LS-DEV'
-description 'Autopilot'
+description 'AntiCombatlog'
 version '1.0.0'
 
 client_scripts {
